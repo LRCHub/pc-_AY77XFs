@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Golden Drop",
+  "base_artist": "富士葵",
+  "createdAt": "2026-02-06T12:27:57.051388Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Golden Drop",
+      "artist": "富士葵",
+      "has_synced": false,
+      "path": "select/pl_01_Golden_Drop_富士葵.txt"
+    }
+  ]
+}
