@@ -1,0 +1,66 @@
+# 富士葵 – Golden Drop
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Sugar melts. English breakfast, like a thin line
+One drop I know
+One drop I know
+One drop I know
+One per step, I go, still slow
+作りかけのリリックと
+足並みを揃えて
+確かに歩いていく。
+イメージは、La la la la…
+Inside my cup of milk
+To that golden drop, one drip
+One thread that's tied to you
+Even if it's truly still frail
+紛れ込んだ息遣いも
+(It) was born from my breath
+全部全部、跡を残して
+歩んできたよ
+Sugar melts, English breakfast, quiet, low, like
+a thin line
+One drop I know
+One per step, I go
+One drop I know
+One per step, I go
+Awakens me, falling light. Spun ring spoon,
+rippling voices
+One drop I know
+One per step, I go
+One drop I know
+One per step, I go, still slow
+For you
+One per step, I go, still slow
+One per step, I go, slow
+こんなありふれた僕の歩幅じゃ
+きっと未来なんて変わらないんだろうな
+それでもひとつずつ
+その波、感じながら
+落としてゆくdrop drop …
+Each drop still carries me on
+Each drop still carries me on
+君の紅茶に掛ける魔法
+Ever-low, fragili fragili fragili steps
+Sugar melts, English breakfast, quiet, low, like
+a thin line
+One drop I know
+One per step, I go
+One drop I know
+One per step, I go
+Awakens me, falling light. Spun ring spoon,
+rippling voices
+One drop I know
+One per step, I go
+One drop I know
+One per step, I go, slow
+落とす
+Just a spoonful of sugar helps
+This medicine goes down-wown
+Just a spoonful of sugar helps
+This medicine goes down-wown
+小さな甘さ感じて。
+More than an empty cup and spoon, I've been
+```
